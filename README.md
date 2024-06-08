@@ -4,23 +4,6 @@
 ## Deploy the Infrastructure
 
 
-### Prepare Local Environment
-Clone the Repo
-```console
-rfs@debian:~$ git clone https://github.com/Red-Labs-Cloud/C2_Infrastructure.git
-```
-
-Enter the new folder
-
-```console
-rfs@debian:~$ cd C2_Infrastructure
-```
-Install all Necessary packages on our local machine.
-
-```console
-rfs@debian:~/C2_Infrastructure$ sudo ./install.sh
-```
-Our base machine is ready to deploy any lab locally or Cloud.
 
 ## Command Help
 
